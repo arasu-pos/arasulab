@@ -22,7 +22,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/arasu-pos/arasulab</url>
+      <url>https://github.com/arasu-pos/arasulab</url>
     </repository>
   </distributionManagement>
 
